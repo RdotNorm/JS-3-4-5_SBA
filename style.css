@@ -1,0 +1,18 @@
+body{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+
+div{
+    text-align: center;
+    font-size: 2rem;
+    color: crimson;
+
+}
+
+h1{
+
+    font-family: cursive;
+    text-align: center;
+}
